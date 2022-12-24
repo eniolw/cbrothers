@@ -1,6 +1,7 @@
 {
     "an": [
         {"prop": "c", "lang": "en", "text": "If you want to earn profits with your HP delegation and support our project we invite you to join the <i>Master Investor</i> plan. <a href='/@chessbrotherspro/master-investor-plan-or-programa'>Here you can learn how to do it.</a>"},
-        {"prop": "c", "lang": "es", "text": "Si quieres obtener ganancias con tu delegacion de HP y apoyar a nuestro proyecto te invitamos a unirte al plan <i>Master Investor</i>. <a href='/@chessbrotherspro/master-investor-plan-or-programa'>Aquí puedes aprender cómo hacerlo.</a>"}
+        {"prop": "c", "lang": "es", "text": "Si quieres obtener ganancias con tu delegacion de HP y apoyar a nuestro proyecto te invitamos a unirte al plan <i>Master Investor</i>. <a href='/@chessbrotherspro/master-investor-plan-or-programa'>Aquí puedes aprender cómo hacerlo.</a>"},
+        {"prop": "p", "lang": "es", "text": "Si quieres obtener ganancias con tu delegacion de HP y apoyar a nuestro proyecto te invitamos a unirte al plan <i>Master Investor</i>. <a href='/@chessbrotherspro/master-investor-plan-or-programa'>Aquí puedes aprender cómo hacerlo.</a>"}
     ]
 }
